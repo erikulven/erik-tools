@@ -1,8 +1,10 @@
-#H1 ZI - ZFS information
+ZI - ZFS information
+====================
 
 Convenience script for working with ZFS on FreeBSD.
 
-#H2 Functions
+Functions
+---------
 
 1. snapshot versions of file/dir
 
